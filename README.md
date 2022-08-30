@@ -1,6 +1,6 @@
 # Storks Data Analysis
 
-![alt text](https://hpccsystems.com/sites/default/files/inline-images/kmeansblog_0.jpg)
+![alt text](https://cdn.mos.cms.futurecdn.net/VuiMqoWnAgeWsncNNcKwrF-1200-80.jpg)
 
 The dataset included in this repo contains information on the stork population and human birth rate for a variety of european nations.
 
